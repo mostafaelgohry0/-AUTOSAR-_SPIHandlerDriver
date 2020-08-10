@@ -1,2 +1,2 @@
-# -AUTOSAR-_SPIHandlerDriver
+# AUTOSAR_SPIHandlerDriver
  AUTOSAR SPIHandler driver for AVR microcontroller
